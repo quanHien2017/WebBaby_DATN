@@ -1,0 +1,12 @@
+Listen 127.0.0.1:8005
+<VirtualHost 127.0.0.1:8005>
+  DocumentRoot "C:/xampp/htdocs/shopquanao/"
+  DirectoryIndex index.php
+  <Directory "C:/xampp/htdocs/shopquanao/">
+    AllowOverride All
+    Allow from All
+    Options  All
+    Require all granted
+  </Directory>
+ 
+</VirtualHost>

@@ -1,0 +1,18 @@
+/*
+Theme Name: Thời trang
+Description: Thiết kế web bởi Web Đại Tín
+Author: WebDaiTin.Com
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.home #mega_menu{
+	display:block
+}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
